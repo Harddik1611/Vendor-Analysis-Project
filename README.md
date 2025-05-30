@@ -1,4 +1,4 @@
-# 🥃 Liquor Vendor Analysis: **Inventory & Sales Optimization Dashboard**
+# 🥃 Liquor Vendor Analysis: **Inventory & Sales Optimization**
 
 # **📌 Problem Statement:**
 Effective inventory and sales management are critical for optimizing profitability in the liquor retail and wholesale industry. Companies often face challenges such as:
