@@ -1,4 +1,4 @@
-"# **🥃 Liquor Vendor Analysis for Inventory & Sales Optimization**"
+"# 🥃 Liquor Vendor Analysis for Inventory & Sales Optimization"
 
 # **📌 Problem Statement:**
 Effective inventory and sales management are critical for optimizing profitability in the liquor retail and wholesale industry. Companies often face challenges such as:
@@ -145,7 +145,7 @@ If vendor dependency is too high, consider identifying new suppliers to reduce r
 * In the end please refer to the **Vendor_analysis_report.docx** file for detailed Analysis within report_file section.
 
 
-**📁 Repository Structure**
+📁 Repository Structure
 vendor-analysis/
 │
 ├── data/
