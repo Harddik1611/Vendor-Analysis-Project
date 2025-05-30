@@ -80,7 +80,8 @@ The core goals of this vendor analysis are to:
 - Built an interactive dashboard using the cleaned **vendor_summary_sales** dataset.
 
 ## Dashboard Overview:
-![Screenshot](./dashboard_and_cleaned_dataset/Screenshot 2025-05-30 140645.png)  
+![Screenshot](Vendor-Analysis-Project/dashboard_and_cleaned_dataset
+/Screenshot 2025-05-30 140645.png)  
 *Figure 1: Interactive Power BI dashboard showing vendor sales and performance metrics.*
 
 ##  Key KPIs:
