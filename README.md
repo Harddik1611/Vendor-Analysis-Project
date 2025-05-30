@@ -118,16 +118,16 @@ Brands with low average profit margins are prevalent across all sales ranges, su
 
 # **✅ Final Insights & Recommendations**
 ## **📌 Key Insights:**
-- Top 10 vendors drive a disproportionate share of profitability—65.7% of sales.The remaining vendors contribute only 34.31%, meaning they are not utilized effectively or may not be as competitive.
+- Top 10 vendors drive a disproportionate share of profitability—**65.7%** of sales.The remaining vendors contribute only **34.31%**, meaning they are not utilized effectively or may not be as competitive.
 If vendor dependency is too high, consider identifying new suppliers to reduce risk.
-- Vendors buying in bulk (Large Order Size) get the lowest unit price ($10.78 per unit), meaning higher margins if they can manage inventory efficiently.
-- The price difference between Small and Large orders is substantial (~72% reduction in unit cost)
+- Vendors buying in bulk (Large Order Size) get the lowest unit price (**$10.78** per unit), meaning higher margins if they can manage inventory efficiently.
+- The price difference between Small and Large orders is substantial (**~72%** reduction in unit cost)
 - This suggests that bulk pricing strategies successfully encourage vendors to purchase in larger volumes, leading to higher overall sales despite lower per-unit revenue.
 - Slow-moving inventory increases holding costs (warehouse rent, insurance, depreciation).
 - Identifying vendors with low inventory turnover is critical for business efficiency, cost reduction, and profitability.
 
 ## **Insights Regarding AB-Testing:**
-- The confidence interval for low-performing vendors (40.48% to 42.62%) is significantly higher than that of top-performing vendors (30.74% to 31.61%).
+- The confidence interval for low-performing vendors (**40.48%** to **42.62%**) is significantly higher than that of top-performing vendors (**30.74%** to **31.61%**).
 - This suggests that vendors with lower sales tend to maintain higher profit margins, potentially due to premium pricing or lower operational costs.
 - For High-Performing Vendors: If they aim to improve profitability, they could explore selective price adjustments, cost optimization, or bundling strategies.
 - For Low-Performing Vendors: Despite higher margins, their low sales volume might indicate a need for better marketing, competitive pricing, or improved distribution strategies.
@@ -144,34 +144,33 @@ If vendor dependency is too high, consider identifying new suppliers to reduce r
 
 * In the end please refer to the **Vendor_analysis_report.docx** file for detailed Analysis within report_file section.
 
+# 📂 Repository Structure
 
-📁 Repository Structure
+```bash
 vendor-analysis/
+├── 📂 data/
+│   ├── 📂 raw/                  # Original CSV files (unprocessed)
+│   └── 📂 cleaned/             # Processed datasets (analysis-ready)
 │
-├── data/
-│   ├── raw/                                # Original CSV files
-│   ├── cleaned/                            # Cleaned and processed datasets
+├── 📂 notebooks/
+│   ├── 📘 exploratory_data_analysis.ipynb  # Data cleaning & exploration
+│   └── 📘 vendor_analysis.ipynb            # Main analysis & insights
 │
-├── notebook (Analysis file)/
-│   └── exploratory_data_analysis.ipynb     # focused mainly on Data preprocessing
-│   └── vendor_analysis.ipynb               # Main analysis notebook
+├── 📂 dashboard/
+│   ├── 📊 vendor_dashboard.pbix            # Interactive Power BI dashboard
+│   └── 📄 vendor_summary_sales.csv         # Processed data for dashboard
 │
-├── dashboard_and cleaned_datset/
-│   └── vendor_dashboard.pbix               # Power BI file
-|   └── vendor_summary_sales.csv
+├── 📂 database/
+│   └── 🐍 ingestion_db.py      # Database connection & ETL logic
 │
-├── README.md
+├── 📂 logs/
+│   └── 📜 ingestion_db.log     # Execution logs (debugging)
 │
-├── database file/      
-│   └── ingestion_db.py                     # SQLite3 connection and merging logic
+├── 📂 reports/
+│   └── 📑 Vendor_analysis_report.docx      # Final analysis report
 │
-├──log file
-│    └── ingestion_db.log                   # contains the log while performing data_ingestion in notebook
-│             
-├──report_file
-│    └── Vendor_analysis_report.docx        # contains docx file of summary report
-
-
+└── 📄 README.md                # Project overview & setup guide
+```
 # **🚀 Getting Started**
 ## 1.Clone the repository:
 https://github.com/Harddik1611/Vendor-Analysis-Project.git
