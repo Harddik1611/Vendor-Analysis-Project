@@ -79,6 +79,10 @@ The core goals of this vendor analysis are to:
 # **📊 Power BI Dashboard**
 - Built an interactive dashboard using the cleaned **vendor_summary_sales** dataset.
 
+## **Dashboard Overview**
+![Vendor Performance Dashboard Screenshot](./dashboard_and_cleaned_dataset/dashboard_screenshot.png)  
+*Figure 1: Interactive Power BI dashboard showing vendor sales and performance metrics.*
+
 ##  Key KPIs:
 - Total Sales: $441.41M
 - Total Purchase: $307.34M
