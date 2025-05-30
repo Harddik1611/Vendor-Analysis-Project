@@ -72,8 +72,8 @@ The core goals of this vendor analysis are to:
 - 0.05
 ### **p-value:**
 - 0.0037
-**✅ Result:** Since the p-value < 0.05, we **reject H₀**.
-**Conclusion:** There is a **statistically significant difference** in profit margins between top-performing and low-performing vendors.
+### **✅ Result:** Since the p-value < 0.05, we **reject H₀**.
+### **Conclusion:** There is a **statistically significant difference** in profit margins between top-performing and low-performing vendors.
 
 
 # **📊 Power BI Dashboard**
@@ -125,6 +125,7 @@ If vendor dependency is too high, consider identifying new suppliers to reduce r
 - This suggests that bulk pricing strategies successfully encourage vendors to purchase in larger volumes, leading to higher overall sales despite lower per-unit revenue.
 - Slow-moving inventory increases holding costs (warehouse rent, insurance, depreciation).
 - Identifying vendors with low inventory turnover is critical for business efficiency, cost reduction, and profitability.
+
 ## **Insights Regarding AB-Testing:**
 - The confidence interval for low-performing vendors (40.48% to 42.62%) is significantly higher than that of top-performing vendors (30.74% to 31.61%).
 - This suggests that vendors with lower sales tend to maintain higher profit margins, potentially due to premium pricing or lower operational costs.
@@ -134,7 +135,7 @@ If vendor dependency is too high, consider identifying new suppliers to reduce r
 - The two vendor groups operate very differently in terms of profitability.
 
 ## **✅ Strategic Recommendations**
-- Re-evaluate pricing for **low-sales**, **high-margin brands** to **boost sales volume** without sacrificing **profitability**. 
+- **Re-evaluate pricing** for **low-sales**, **high-margin brands** to **boost sales volume** without sacrificing **profitability**. 
 - Diversify **vendor partnerships** to reduce dependency on a few **suppliers** and mitigate **supply chain risks**. 
 - Leverage **bulk purchasing** advantages to maintain **competitive pricing** while optimizing inventory management. 
 - **Optimize slow-moving** inventory by adjusting **purchase quantities**, **launching clearance sales**, or **revising storage strategies**. 
@@ -144,7 +145,7 @@ If vendor dependency is too high, consider identifying new suppliers to reduce r
 * In the end please refer to the **Vendor_analysis_report.docx** file for detailed Analysis within report_file section.
 
 
-# **📁 Repository Structure**
+**📁 Repository Structure**
 vendor-analysis/
 │
 ├── data/
