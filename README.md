@@ -84,41 +84,41 @@ The core goals of this vendor analysis are to:
 *Figure 1: Interactive Power BI dashboard showing vendor sales and performance metrics.*
 
 ##  Key KPIs:
-- Total Sales: $441.41M
-- Total Purchase: $307.34M
-- Gross Profit: $134.07M
-- Gross Profit Margin: 38.7%
-- Unsold Capital: $2.71M
-- SalesToPurchaseRatio: 1.44
+- Total Sales: **$441.41M**
+- Total Purchase: **$307.34M**
+- Gross Profit: **$134.07M**
+- Gross Profit Margin: **38.7%**
+- Unsold Capital: **$2.71M**
+- SalesToPurchaseRatio: **1.44**
 
 ## Vendor Contribution:
-- Top 10 vendors contribute **65.7%** of total sales
+- Top 10 vendors contribute **65.7%** of total sales.
 * Top contributors:
     - Diageo North America – **16.3%**
     - Martignetti Companies –**8.3%**
     - Pernod Ricard USA – **7.8%**
 
 ###  Top Vendors by Sales:
-- Diageo – $68M
-- Martignetti – $39M
-- Pernod Ricard – $32M
+- Diageo – **$68M**
+- Martignetti – **$39M**
+- Pernod Ricard – **$32M**
 
 ### Low-Performing Vendors:
-- Alisa Carr Beverages – 0.615
-- Highland Wines – 0.708
-- Park Street Imports – 0.751
+- Alisa Carr Beverages – **0.615**
+- Highland Wines – **0.708**
+- Park Street Imports – **0.751**
 
 ## Brand-Level Performance:
 ### Top Brands by Sales:
-- Jack Daniel’s – $8.0M
-- Tito’s Handmade Vodka – $7.4M
-- Grey Goose Vodka – $7.2M
+- Jack Daniel’s – **$8.0M**
+- Tito’s Handmade Vodka – **$7.4M**
+- Grey Goose Vodka – **$7.2M**
 
 ### Low-Performing Brands:
 Brands with low average profit margins are prevalent across all sales ranges, suggesting a need for pricing review or cost control.
 
 ## Capital Efficiency:
-- **Unsold Capital** of $2.71M indicates overstock or inefficiency in stock turnover.
+- Unsold Capital of **$2.71M** indicates overstock or inefficiency in stock turnover.
 
 # **✅ Final Insights & Recommendations**
 ## **📌 Key Insights:**
@@ -131,11 +131,10 @@ If vendor dependency is too high, consider identifying new suppliers to reduce r
 - Identifying vendors with low inventory turnover is critical for business efficiency, cost reduction, and profitability.
 
 ## **Insights Regarding AB-Testing:**
-- The confidence interval for low-performing vendors (**40.48%** to **42.62%**) is significantly higher than that of top-performing vendors (**30.74%** to **31.61%**).
-- This suggests that vendors with lower sales tend to maintain higher profit margins, potentially due to premium pricing or lower operational costs.
+- The confidence interval for low-performing vendors (**40.48%** to **42.62%**) is significantly higher than that of top-performing vendors (**30.74%** to **31.61%**).This suggests that vendors with lower sales tend to maintain higher profit margins, potentially due to premium pricing or lower operational costs.
 - For High-Performing Vendors: If they aim to improve profitability, they could explore selective price adjustments, cost optimization, or bundling strategies.
 - For Low-Performing Vendors: Despite higher margins, their low sales volume might indicate a need for better marketing, competitive pricing, or improved distribution strategies.
-- P-value=0.0000 of this small suggests that the difference is not just statistically significant but also practically meaningful.
+- P-value=0.00003 of this small suggests that the difference is not just statistically significant but also practically meaningful.
 - The two vendor groups operate very differently in terms of profitability.
 
 ## **✅ Strategic Recommendations**
